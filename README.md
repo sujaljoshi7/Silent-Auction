@@ -18,7 +18,7 @@ The Silent Auction Program allows users to conduct a secret auction where partic
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/sujaljoshi7/silent-auction.git
+    git clone https://github.com/sujaljoshi7/Silent-Auction.git
     cd silent-auction
     ```
 
